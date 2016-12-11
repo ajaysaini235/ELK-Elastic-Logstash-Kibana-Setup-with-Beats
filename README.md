@@ -148,7 +148,7 @@
     Shield     ===>>> 
     =============  
                    
-	         Step 1: Install Shield
+	        Step 1: Install Shield
 		    bin/plugin install elasticsearch/license/latest
 		    bin/plugin install elasticsearch/shield/latest
 
