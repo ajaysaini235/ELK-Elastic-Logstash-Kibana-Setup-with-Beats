@@ -152,13 +152,13 @@
 		    bin/plugin install elasticsearch/license/latest
 		    bin/plugin install elasticsearch/shield/latest
 
-		Step 2: Start Elasticsearch
-		    bin/elasticsearch
+			Step 2: Start Elasticsearch
+			    bin/elasticsearch
 
-		Step 3: Add an admin user
-		   bin/shield/esusers useradd es_admin -r admin
+			Step 3: Add an admin user
+			   bin/shield/esusers useradd es_admin -r admin
 
-		Step 4: Try it with a user
-		   curl -u es_admin -XGET 'http://localhost:9200/'
+			Step 4: Try it with a user
+		           curl -u es_admin -XGET 'http://localhost:9200/'
 
   
