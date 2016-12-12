@@ -149,8 +149,8 @@
     =============  
                    
 	        Step 1: Install Shield
-		    bin/plugin install elasticsearch/license/latest
-		    bin/plugin install elasticsearch/shield/latest
+			    bin/plugin install elasticsearch/license/latest
+			    bin/plugin install elasticsearch/shield/latest
 
 			Step 2: Start Elasticsearch
 			    bin/elasticsearch
