@@ -1,7 +1,7 @@
 
                  *****************************************************
                                   
-**************  ELK (Elasticsearch Logstash Kibana) Instolation setup with Beats or Filebeat ***********
+**************  ELK (Elasticsearch Logstash Kibana) Installation setup with Beats or Filebeat ***********
 
                                 Only For Linux or Mac 
 
